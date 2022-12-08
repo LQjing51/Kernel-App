@@ -1,0 +1,26 @@
+ 417 C5.2.4   ELR_EL12, Exception Link Register (EL1)
+ 458 C5.2.17   SPSR_EL12, Saved Program Status Register (EL1)
+ 3058 D13.2.5   AFSR0_EL12, Auxiliary Fault Status Register 0 (EL1)
+ 3066 D13.2.8   AFSR1_EL12, Auxiliary Fault Status Register 1 (EL1)
+ 3075 D13.2.12   AMAIR_EL12, Auxiliary Memory Attribute Indirection Register (EL1)
+ 3111 D13.2.28   CONTEXTIDR_EL12, Context ID Register (EL1)
+ 3117 D13.2.30   CPACR_EL12, Architectural Feature Access Control Register
+ 3145 D13.2.37   ESR_EL12, Exception Syndrome Register (EL1)
+ 3281 D13.2.40   FAR_EL12, Fault Address Register (EL1)
+ 3557 D13.2.95   MAIR_EL12, Memory Attribute Indirection Register (EL1)
+ 3621 D13.2.116   SCTLR_EL12, System Control Register (EL1)
+ 3674 D13.2.120   SCXTNUM_EL12, EL1 Read/Write Software Context Number
+ 3683 D13.2.123   TCR_EL12, Translation Control Register (EL1)
+ 3730 D13.2.127   TFSR_EL12, Tag Fault Status Register (EL1)
+ 3751 D13.2.135   TTBR0_EL12, Translation Table Base Register 0 (EL1)
+ 3764 D13.2.138   TTBR1_EL12, Translation Table Base Register 1 (EL1)
+ 3773 D13.2.140   VBAR_EL12, Vector Base Address Register (EL1)
+ 3921 D13.3.29   TRFCR_EL12, Trace Filter Control Register (EL1)
+ 4056 D13.6.5   PMSCR_EL12, Statistical Profiling Control Register (EL1)
+ 4197 D13.8.15   CNTKCTL_EL12, Counter-timer Kernel Control register
+ 4202 D13.8.16   CNTP_CTL_EL02, Counter-timer Physical Timer Control register
+ 4206 D13.8.17   CNTP_CVAL_EL02, Counter-timer Physical Timer CompareValue register
+ 4210 D13.8.18   CNTP_TVAL_EL02, Counter-timer Physical Timer TimerValue register
+ 4227 D13.8.25   CNTV_CTL_EL02, Counter-timer Virtual Timer Control register
+ 4231 D13.8.26   CNTV_CVAL_EL02, Counter-timer Virtual Timer CompareValue register
+ 4235 D13.8.27   CNTV_TVAL_EL02, Counter-timer Virtual Timer TimerValue register
